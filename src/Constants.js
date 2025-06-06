@@ -194,8 +194,8 @@ export const SkillsInfo = [
       description:"Customization tools for changing colors, materials, and finishes in real-time.Responsive design that works seamlessly across desktop, tablet, and mobile devices",
        image: Cm,
       tags: ["HTML", "CSS", "JavaScript",  "API"],
-      github: "https://github.com/codingmastr/Webverse-Digital",
-      webapp: "https://github.com/codingmastr/Webverse-Digital",
+      github: "https://github.com/ubaid6392/Mordan-Chair-page",
+      webapp: "https://github.com/ubaid6392/Mordan-Chair-page",
     },
     {
       id: 1,
@@ -204,8 +204,8 @@ export const SkillsInfo = [
         "Built a full-featured blogging platform using React.js.in which we can read the blog of various type of technology like Ai, web desiging,machine learning,App development",
       image: cspre,
       tags: ["React JS", "Node.js", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/Webverse-Digital",
-      webapp: "https://github.com/codingmastr/Webverse-Digital",
+      github: "https://github.com/ubaid6392/Blog-context-App",
+      webapp: "https://github.com/ubaid6392/Blog-context-App",
     },
     {
       id: 2,
@@ -214,8 +214,8 @@ export const SkillsInfo = [
         "A React-based web application that provides tour rate and picture where  you want to go",
       image: imagesearch,
       tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/Webverse-Digital",
-      webapp: "https://github.com/codingmastr/Webverse-Digital",
+      github: "https://github.com/ubaid6392/Tour-with-love",
+      webapp: "https://github.com/ubaid6392/Tour-with-love",
     },
     
    ];
